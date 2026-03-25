@@ -14,3 +14,5 @@ To showcase my creativity and improve my skills.
 
 ## Created by
 Your Name
+Project: AI Image Design
+Sample file:
