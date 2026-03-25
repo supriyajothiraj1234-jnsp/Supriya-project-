@@ -1,4 +1,4 @@
-# Supriya-project-
+ Supriya-project-
 # Creative Portfolio
 
 This repository contains my creative works including designs, images, and videos.
@@ -15,4 +15,4 @@ To showcase my creativity and improve my skills.
 ## Created by
 Your Name
 Project: AI Image Design
-Sample file:
+Sample  https://github.com/supriyajothiraj1234-jnsp/Supriya-project-/blob/main/Model.%20Txt# Supriya-project-
